@@ -2,14 +2,11 @@
 
 Good to see you here. Cerberus is my alias and this is my little profile.
 
-Feel free to contact me via:
-- **[Discord](https://discordapp.com/users/718068120300027905)**
+Feel free to contact me via: [Discord](https://discordapp.com/users/718068120300027905)
 
-Follow me, free wifi:
-- **[Medium](https://medium.com/@suncerberus)**
-- **[LinkedIn](https://www.linkedin.com/in/thanaphol-pomsuwan-63765a136/)**
+Follow me, free wifi: [Medium](https://medium.com/@suncerberus), [LinkedIn](https://www.linkedin.com/in/thanaphol-pomsuwan-63765a136/)
 
-## Stacks
+## My Personal Stacks
 
 ### Familiar
 Primary responsible or have experienced at least five years.
