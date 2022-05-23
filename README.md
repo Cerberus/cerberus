@@ -1,9 +1,9 @@
 ### Hello 👋
 
-Good to see you here. Sun is my name and this is my little profile.
+Good to see you here. Cerberus is my alias and this is my little profile.
 
 Feel free to contact me via:
-- Discord: `Sun#1632`
+- Discord: https://discordapp.com/users/718068120300027905
 
 Follow me, free wifi:
 - Medium: https://medium.com/@suncerberus
