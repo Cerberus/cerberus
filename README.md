@@ -2,7 +2,12 @@
 
 Good to see you here. Sun is my name and this is my little profile.
 
-Feel free to contact me via Discord [ID: `Sun#1632`] 🤖
+Feel free to contact me via:
+- Discord: `Sun#1632`
+
+Follow me, free wifi:
+- Medium: https://medium.com/@suncerberus
+- Linkedin: https://www.linkedin.com/in/thanaphol-pomsuwan-63765a136/
 
 ## Stacks
 
