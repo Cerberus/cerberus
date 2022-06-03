@@ -1,12 +1,6 @@
 ### Hello 👋
 
-Good to see you here. Cerberus is my alias and this is my little profile.
-
-Feel free to contact me via: [Discord](https://discordapp.com/users/718068120300027905)
-
-Code recipes: [Gist](https://gist.github.com/Cerberus)
-
-Follow me, free wifi: [Medium](https://medium.com/@suncerberus), [LinkedIn](https://www.linkedin.com/in/thanaphol-pomsuwan-63765a136/)
+Good to see you here. This is my little profile.
 
 ## My Personal Stacks
 
@@ -34,3 +28,11 @@ Legend said as an expert (but prefer to not ask).
 Once I tried.
 
 ![My Skills](https://skillicons.dev/icons?i=clojure,jquery,sass,angular,vue,rails,ruby,postgres,arduino,blender&perline=8)
+
+## Info
+
+Code recipes: [Gist](https://gist.github.com/Cerberus)
+
+Feel free to contact me via: [Discord](https://discordapp.com/users/718068120300027905)
+
+Follow me, free wifi: [Medium](https://medium.com/@suncerberus), [LinkedIn](https://www.linkedin.com/in/thanaphol-pomsuwan-63765a136/)
