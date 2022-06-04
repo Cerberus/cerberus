@@ -5,7 +5,7 @@ Good to see you here. This is my little profile.
 ## My Personal Stacks
 
 ### Familiar
-Primary responsible or have experienced at least five years.
+Primary responsibility or have experienced at least five years.
 
 ![My Skills](https://skillicons.dev/icons?i=react,apollo,emotion,styledcomponents,graphql,materialui,vite,workers,html,css,js,ts,jest,nodejs,vscode,git&perline=8)
 
