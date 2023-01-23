@@ -17,7 +17,7 @@ Known some parts and keep learning.
 ### Beginner
 Interested but spend least times.
 
-![My Skills](https://skillicons.dev/icons?i=wasm,go,deno,remix,aws,gcp,firebase,bash,redux,linux,express,grafana,kubernetes,nextjs,regex&perline=8)
+![My Skills](https://skillicons.dev/icons?i=wasm,go,deno,remix,aws,gcp,firebase,bash,redux,linux,express,grafana,kubernetes,nextjs,regex,figma&perline=8)
 
 ### Forgotten
 Legend said as an expert (but prefer to not ask).
