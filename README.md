@@ -10,12 +10,12 @@ Primary responsibility or have experienced at least five years.
 ![My Skills](https://skillicons.dev/icons?i=react,apollo,emotion,styledcomponents,graphql,materialui,vite,workers,html,css,js,ts,jest,nodejs,vscode,git&perline=8)
 
 ### Intermediate
-Known some parts and keep learning.
+Understood main parts, initiated and maintained foundations.
 
 ![My Skills](https://skillicons.dev/icons?i=docker,github,gitlab,cloudflare&perline=8)
 
 ### Beginner
-Interested but spend least times.
+Interested, spent some time and keep learning.
 
 ![My Skills](https://skillicons.dev/icons?i=wasm,go,deno,remix,aws,gcp,firebase,bash,redux,linux,express,grafana,kubernetes,nextjs,regex,figma&perline=8)
 
