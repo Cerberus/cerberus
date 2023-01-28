@@ -31,8 +31,8 @@ Once I tried.
 
 ## Info
 
-Code recipes: [Gist](https://gist.github.com/Cerberus)
+Resume: [Website](https://resume.rare.workers.dev)
 
-Feel free to contact me via: [Discord](https://discordapp.com/users/718068120300027905)
+Code recipes: [Gist](https://gist.github.com/Cerberus)
 
 Follow me, free wifi: [Medium](https://medium.com/@suncerberus), [LinkedIn](https://www.linkedin.com/in/thanaphol-pomsuwan-63765a136/)
